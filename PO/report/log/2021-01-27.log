@@ -1,0 +1,126 @@
+2021-01-27 00:19:08,082 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-27 00:19:08,176 - root - INFO - 账户输入成功
+2021-01-27 00:19:08,364 - root - INFO - 密码输入成功
+2021-01-27 00:19:08,478 - root - INFO - 登录点击成功
+2021-01-27 00:19:08,507 - root - INFO - 打开http://121.196.12.97:9110/admin/index.html#/dashboard成功
+2021-01-27 00:19:09,741 - root - INFO - 点击文章tab
+2021-01-27 00:19:14,781 - root - ERROR - 元素定位异常
+2021-01-27 00:19:15,098 - root - INFO - 截图保存成功D:\PO\report\img\erro202101270018.png
+2021-01-27 00:19:15,098 - root - ERROR - 元素点击异常:'NoneType' object has no attribute 'click'
+2021-01-27 00:19:15,401 - root - INFO - 截图保存成功D:\PO\report\img\erro202101270018.png
+2021-01-27 00:19:15,412 - root - INFO - 点击写文章
+2021-01-27 00:26:34,815 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-27 00:26:34,912 - root - INFO - 账户输入成功
+2021-01-27 00:26:35,093 - root - INFO - 密码输入成功
+2021-01-27 00:26:35,179 - root - INFO - 登录点击成功
+2021-01-27 00:26:35,209 - root - INFO - 打开http://121.196.12.97:9110/admin/index.html#/dashboard成功
+2021-01-27 00:26:38,232 - root - INFO - 点击文章tab
+2021-01-27 00:26:38,510 - root - INFO - 点击写文章
+2021-01-27 15:15:36,159 - root - INFO - chrome浏览器启动中
+2021-01-27 15:15:39,392 - root - ERROR - 打开url异常
+2021-01-27 15:15:39,393 - root - ERROR - 文本输入异常
+2021-01-27 15:15:39,393 - root - ERROR - 截图失败'Browser' object has no attribute 'get_screenshot_as_file'
+2021-01-27 15:15:39,393 - root - INFO - 账户输入成功
+2021-01-27 15:15:39,394 - root - ERROR - 文本输入异常
+2021-01-27 15:15:39,394 - root - ERROR - 截图失败'Browser' object has no attribute 'get_screenshot_as_file'
+2021-01-27 15:15:39,395 - root - INFO - 密码输入成功
+2021-01-27 15:15:39,395 - root - ERROR - 元素点击异常:'Browser' object has no attribute 'find_element'
+2021-01-27 15:15:39,395 - root - ERROR - 截图失败'Browser' object has no attribute 'get_screenshot_as_file'
+2021-01-27 15:15:39,396 - root - INFO - 登录点击成功
+2021-01-27 15:15:39,396 - root - ERROR - 打开url异常
+2021-01-27 15:15:39,397 - root - ERROR - 元素点击异常:'Browser' object has no attribute 'find_element'
+2021-01-27 15:15:39,397 - root - ERROR - 截图失败'Browser' object has no attribute 'get_screenshot_as_file'
+2021-01-27 15:15:39,397 - root - INFO - 点击文章tab
+2021-01-27 15:15:39,398 - root - ERROR - 元素点击异常:'Browser' object has no attribute 'find_element'
+2021-01-27 15:15:39,398 - root - ERROR - 截图失败'Browser' object has no attribute 'get_screenshot_as_file'
+2021-01-27 15:15:39,398 - root - INFO - 点击写文章
+2021-01-27 15:16:16,043 - root - INFO - chrome浏览器启动中
+2021-01-27 15:16:21,188 - root - ERROR - 打开url异常
+2021-01-27 15:16:21,188 - root - ERROR - 文本输入异常
+2021-01-27 15:16:21,189 - root - ERROR - 截图失败'Browser' object has no attribute 'get_screenshot_as_file'
+2021-01-27 15:16:21,189 - root - INFO - 账户输入成功
+2021-01-27 15:16:21,190 - root - ERROR - 文本输入异常
+2021-01-27 15:16:21,190 - root - ERROR - 截图失败'Browser' object has no attribute 'get_screenshot_as_file'
+2021-01-27 15:16:21,190 - root - INFO - 密码输入成功
+2021-01-27 15:16:21,191 - root - ERROR - 元素点击异常:'Browser' object has no attribute 'find_element'
+2021-01-27 15:16:21,191 - root - ERROR - 截图失败'Browser' object has no attribute 'get_screenshot_as_file'
+2021-01-27 15:16:21,192 - root - INFO - 登录点击成功
+2021-01-27 15:16:21,192 - root - ERROR - 打开url异常
+2021-01-27 15:16:21,193 - root - ERROR - 元素点击异常:'Browser' object has no attribute 'find_element'
+2021-01-27 15:16:21,193 - root - ERROR - 截图失败'Browser' object has no attribute 'get_screenshot_as_file'
+2021-01-27 15:16:21,193 - root - INFO - 点击文章tab
+2021-01-27 15:16:21,194 - root - ERROR - 元素点击异常:'Browser' object has no attribute 'find_element'
+2021-01-27 15:16:21,194 - root - ERROR - 截图失败'Browser' object has no attribute 'get_screenshot_as_file'
+2021-01-27 15:16:21,195 - root - INFO - 点击写文章
+2021-01-27 15:18:12,435 - root - INFO - chrome浏览器启动中
+2021-01-27 15:26:12,606 - root - INFO - chrome浏览器启动中
+2021-01-27 15:26:29,024 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-27 15:26:29,124 - root - INFO - 账户输入成功
+2021-01-27 15:26:29,292 - root - INFO - 密码输入成功
+2021-01-27 15:26:29,373 - root - INFO - 登录点击成功
+2021-01-27 15:26:29,405 - root - INFO - 打开http://121.196.12.97:9110/admin/index.html#/dashboard成功
+2021-01-27 15:26:31,626 - root - INFO - 点击文章tab
+2021-01-27 15:26:32,018 - root - INFO - 点击写文章
+2021-01-27 15:59:52,336 - root - INFO - chrome浏览器启动中
+2021-01-27 16:00:14,102 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-27 16:00:14,205 - root - INFO - 账户输入成功
+2021-01-27 16:00:14,370 - root - INFO - 密码输入成功
+2021-01-27 16:00:14,453 - root - INFO - 登录点击成功
+2021-01-27 16:00:14,478 - root - INFO - 打开http://121.196.12.97:9110/admin/index.html#/dashboard成功
+2021-01-27 16:00:15,560 - root - INFO - 点击文章tab
+2021-01-27 16:00:15,921 - root - INFO - 点击写文章
+2021-01-27 17:29:36,285 - root - INFO - chrome浏览器启动中
+2021-01-27 17:29:44,006 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-27 17:31:02,064 - root - INFO - chrome浏览器启动中
+2021-01-27 17:31:17,924 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-27 17:31:18,025 - root - INFO - 账户输入成功
+2021-01-27 17:31:18,191 - root - INFO - 密码输入成功
+2021-01-27 17:31:18,311 - root - INFO - 登录点击成功
+2021-01-27 17:31:18,341 - root - INFO - 打开http://121.196.12.97:9110/admin/index.html#/dashboard成功
+2021-01-27 17:31:21,208 - root - INFO - 点击文章tab
+2021-01-27 17:31:21,538 - root - INFO - 点击写文章
+2021-01-27 17:43:42,281 - root - INFO - chrome浏览器启动中
+2021-01-27 17:44:01,859 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-27 17:44:01,982 - root - INFO - 账户输入成功
+2021-01-27 17:44:02,165 - root - INFO - 密码输入成功
+2021-01-27 17:44:02,266 - root - INFO - 登录点击成功
+2021-01-27 17:44:02,295 - root - INFO - 打开http://121.196.12.97:9110/admin/index.html#/dashboard成功
+2021-01-27 17:44:03,225 - root - INFO - 点击文章tab
+2021-01-27 17:44:03,686 - root - INFO - 点击写文章
+2021-01-27 19:48:18,774 - root - INFO - chrome浏览器启动中
+2021-01-27 19:48:35,141 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-27 19:48:35,233 - root - INFO - 账户输入成功
+2021-01-27 19:48:35,406 - root - INFO - 密码输入成功
+2021-01-27 19:48:35,528 - root - INFO - 登录点击成功
+2021-01-27 19:48:35,545 - root - INFO - 打开http://121.196.12.97:9110/admin/index.html#/dashboard成功
+2021-01-27 19:48:37,351 - root - INFO - 点击文章tab
+2021-01-27 19:48:37,750 - root - INFO - 点击写文章
+2021-01-27 20:01:40,766 - root - INFO - 开始发送邮件
+2021-01-27 20:01:43,506 - root - INFO - 邮件发送成功！！
+2021-01-27 20:03:01,929 - root - INFO - chrome浏览器启动中
+2021-01-27 20:03:16,029 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-27 20:03:16,124 - root - INFO - 账户输入成功
+2021-01-27 20:03:16,287 - root - INFO - 密码输入成功
+2021-01-27 20:03:16,392 - root - INFO - 登录点击成功
+2021-01-27 20:03:16,419 - root - INFO - 打开http://121.196.12.97:9110/admin/index.html#/dashboard成功
+2021-01-27 20:03:18,029 - root - INFO - 点击文章tab
+2021-01-27 20:03:18,352 - root - INFO - 点击写文章
+2021-01-27 20:05:15,381 - root - INFO - chrome浏览器启动中
+2021-01-27 20:05:30,191 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-27 20:05:30,283 - root - INFO - 账户输入成功
+2021-01-27 20:05:30,484 - root - INFO - 密码输入成功
+2021-01-27 20:05:30,632 - root - INFO - 登录点击成功
+2021-01-27 20:05:30,683 - root - INFO - 打开http://121.196.12.97:9110/admin/index.html#/dashboard成功
+2021-01-27 20:05:32,044 - root - INFO - 点击文章tab
+2021-01-27 20:05:32,370 - root - INFO - 点击写文章
+2021-01-27 20:05:42,539 - root - INFO - 开始发送邮件
+2021-01-27 20:07:05,053 - root - INFO - chrome浏览器启动中
+2021-01-27 20:07:21,753 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-27 20:07:21,855 - root - INFO - 账户输入成功
+2021-01-27 20:07:22,040 - root - INFO - 密码输入成功
+2021-01-27 20:07:22,152 - root - INFO - 登录点击成功
+2021-01-27 20:07:22,184 - root - INFO - 打开http://121.196.12.97:9110/admin/index.html#/dashboard成功
+2021-01-27 20:07:23,467 - root - INFO - 点击文章tab
+2021-01-27 20:07:23,895 - root - INFO - 点击写文章
+2021-01-27 20:07:34,973 - root - INFO - 开始发送邮件
+2021-01-27 20:07:36,820 - root - INFO - 邮件发送成功！！

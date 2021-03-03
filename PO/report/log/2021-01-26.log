@@ -1,0 +1,240 @@
+2021-01-26 16:48:54,306 - root - INFO - 测试
+2021-01-26 16:56:43,719 - root - INFO - 测试
+2021-01-26 16:57:14,752 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 17:16:33,358 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 17:20:21,181 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 17:26:26,428 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 17:26:26,695 - root - INFO - 打开http://121.196.12.97:9110/admin/index.html#/dashboard成功
+2021-01-26 17:26:36,735 - root - ERROR - 元素定位异常
+2021-01-26 17:26:37,200 - root - INFO - 截图保存成功D:\PO\report\img202101261726.png
+2021-01-26 17:26:37,200 - root - ERROR - 元素点击异常:'NoneType' object has no attribute 'click'
+2021-01-26 17:26:37,478 - root - INFO - 截图保存成功D:\PO\report\img202101261726.png
+2021-01-26 17:26:47,535 - root - ERROR - 元素定位异常
+2021-01-26 17:26:47,839 - root - INFO - 截图保存成功D:\PO\report\img202101261726.png
+2021-01-26 17:26:47,849 - root - ERROR - 元素点击异常:'NoneType' object has no attribute 'click'
+2021-01-26 17:26:48,157 - root - INFO - 截图保存成功D:\PO\report\img202101261726.png
+2021-01-26 17:31:20,401 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 17:31:20,680 - root - INFO - 打开http://121.196.12.97:9110/admin/index.html#/dashboard成功
+2021-01-26 17:31:30,715 - root - ERROR - 元素定位异常
+2021-01-26 17:31:31,023 - root - INFO - 截图保存成功D:\PO\report\img202101261731.png
+2021-01-26 17:31:31,023 - root - ERROR - 元素点击异常:'NoneType' object has no attribute 'click'
+2021-01-26 17:31:31,306 - root - INFO - 截图保存成功D:\PO\report\img202101261731.png
+2021-01-26 17:31:41,346 - root - ERROR - 元素定位异常
+2021-01-26 17:31:41,642 - root - INFO - 截图保存成功D:\PO\report\img202101261731.png
+2021-01-26 17:31:41,651 - root - ERROR - 元素点击异常:'NoneType' object has no attribute 'click'
+2021-01-26 17:31:41,938 - root - INFO - 截图保存成功D:\PO\report\img202101261731.png
+2021-01-26 17:35:25,416 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 17:35:25,689 - root - INFO - 打开http://121.196.12.97:9110/admin/index.html#/dashboard成功
+2021-01-26 17:35:30,704 - root - ERROR - 元素定位异常
+2021-01-26 17:35:31,017 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261735.png
+2021-01-26 17:35:31,018 - root - ERROR - 元素点击异常:'NoneType' object has no attribute 'click'
+2021-01-26 17:35:31,313 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261735.png
+2021-01-26 17:35:36,355 - root - ERROR - 元素定位异常
+2021-01-26 17:35:36,652 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261735.png
+2021-01-26 17:35:36,652 - root - ERROR - 元素点击异常:'NoneType' object has no attribute 'click'
+2021-01-26 17:35:36,945 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261735.png
+2021-01-26 17:59:46,327 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 17:59:46,616 - root - ERROR - 元素定位异常
+2021-01-26 17:59:46,961 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261759.png
+2021-01-26 17:59:46,962 - root - ERROR - 元素点击异常:'NoneType' object has no attribute 'click'
+2021-01-26 17:59:47,275 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261759.png
+2021-01-26 17:59:47,291 - root - INFO - 打开http://121.196.12.97:9110/admin/index.html#/dashboard成功
+2021-01-26 17:59:52,341 - root - ERROR - 元素定位异常
+2021-01-26 17:59:52,643 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261759.png
+2021-01-26 17:59:52,654 - root - ERROR - 元素点击异常:'NoneType' object has no attribute 'click'
+2021-01-26 17:59:52,925 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261759.png
+2021-01-26 17:59:57,933 - root - ERROR - 元素定位异常
+2021-01-26 17:59:58,223 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261759.png
+2021-01-26 17:59:58,223 - root - ERROR - 元素点击异常:'NoneType' object has no attribute 'click'
+2021-01-26 17:59:58,506 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261759.png
+2021-01-26 18:04:32,469 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 18:04:32,729 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 18:04:33,107 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261804.png
+2021-01-26 18:04:33,122 - root - INFO - 打开http://121.196.12.97:9110/admin/index.html#/dashboard成功
+2021-01-26 18:04:33,125 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 18:04:33,439 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261804.png
+2021-01-26 18:04:33,454 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 18:04:33,765 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261804.png
+2021-01-26 18:10:28,532 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 18:10:28,615 - root - INFO - 账户输入成功
+2021-01-26 18:10:28,767 - root - INFO - 密码输入成功
+2021-01-26 18:10:28,773 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 18:10:29,198 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261810.png
+2021-01-26 18:10:29,199 - root - INFO - 登录点击成功
+2021-01-26 18:10:29,213 - root - INFO - 打开http://121.196.12.97:9110/admin/index.html#/dashboard成功
+2021-01-26 18:10:29,216 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 18:10:29,577 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261810.png
+2021-01-26 18:10:29,577 - root - INFO - 点击文章tab
+2021-01-26 18:10:29,580 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 18:10:29,895 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261810.png
+2021-01-26 18:12:05,378 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 18:12:05,476 - root - INFO - 账户输入成功
+2021-01-26 18:12:05,652 - root - INFO - 密码输入成功
+2021-01-26 18:12:05,658 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 18:12:06,078 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261811.png
+2021-01-26 18:12:06,078 - root - INFO - 登录点击成功
+2021-01-26 18:12:06,091 - root - INFO - 打开http://121.196.12.97:9110/admin/index.html#/dashboard成功
+2021-01-26 18:12:06,094 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 18:12:06,411 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261811.png
+2021-01-26 18:12:06,411 - root - INFO - 点击文章tab
+2021-01-26 18:12:06,416 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 18:12:06,721 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261811.png
+2021-01-26 18:12:06,721 - root - INFO - 点击写文章
+2021-01-26 18:13:17,849 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 18:13:17,941 - root - INFO - 账户输入成功
+2021-01-26 18:13:18,106 - root - INFO - 密码输入成功
+2021-01-26 18:13:18,110 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 18:13:18,483 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261813.png
+2021-01-26 18:13:18,484 - root - INFO - 登录点击成功
+2021-01-26 18:13:18,496 - root - INFO - 打开http://121.196.12.97:9110/admin/index.html#/dashboard成功
+2021-01-26 18:13:18,502 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 18:13:18,810 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261813.png
+2021-01-26 18:13:18,810 - root - INFO - 点击文章tab
+2021-01-26 18:13:18,815 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 18:13:19,121 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261813.png
+2021-01-26 18:13:19,121 - root - INFO - 点击写文章
+2021-01-26 18:17:16,385 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 18:17:16,475 - root - INFO - 账户输入成功
+2021-01-26 18:17:16,647 - root - INFO - 密码输入成功
+2021-01-26 18:17:16,650 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 18:17:17,058 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261817.png
+2021-01-26 18:17:17,058 - root - INFO - 登录点击成功
+2021-01-26 18:17:17,073 - root - INFO - 打开http://121.196.12.97:9110/admin/index.html#/dashboard成功
+2021-01-26 18:17:17,079 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 18:17:17,369 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261817.png
+2021-01-26 18:17:17,369 - root - INFO - 点击文章tab
+2021-01-26 18:17:17,374 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 18:17:17,662 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261817.png
+2021-01-26 18:17:17,663 - root - INFO - 点击写文章
+2021-01-26 18:18:26,977 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 18:18:27,071 - root - INFO - 账户输入成功
+2021-01-26 18:18:27,240 - root - INFO - 密码输入成功
+2021-01-26 18:18:27,244 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 18:18:27,636 - root - INFO - 截图保存成功D:\PO\report\img\erro202101261818.png
+2021-01-26 18:18:27,637 - root - INFO - 登录点击成功
+2021-01-26 20:42:07,736 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 20:42:07,826 - root - INFO - 账户输入成功
+2021-01-26 20:42:07,995 - root - INFO - 密码输入成功
+2021-01-26 20:42:07,999 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 20:42:08,413 - root - INFO - 截图保存成功D:\PO\report\img\erro202101262041.png
+2021-01-26 20:46:08,895 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 20:46:08,989 - root - INFO - 账户输入成功
+2021-01-26 20:46:09,160 - root - INFO - 密码输入成功
+2021-01-26 20:46:09,164 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 20:46:09,584 - root - INFO - 截图保存成功D:\PO\report\img\erro202101262045.png
+2021-01-26 20:48:18,315 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 20:48:18,437 - root - INFO - 账户输入成功
+2021-01-26 20:48:25,919 - root - INFO - 密码输入成功
+2021-01-26 20:52:51,619 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 20:55:22,245 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 20:55:22,359 - root - INFO - 账户输入成功
+2021-01-26 20:55:22,538 - root - INFO - 密码输入成功
+2021-01-26 20:55:22,545 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 20:55:22,915 - root - INFO - 截图保存成功D:\PO\report\img\erro202101262055.png
+2021-01-26 20:56:39,339 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 20:56:39,444 - root - INFO - 账户输入成功
+2021-01-26 20:56:39,635 - root - INFO - 密码输入成功
+2021-01-26 21:04:03,898 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 21:04:04,031 - root - INFO - 账户输入成功
+2021-01-26 21:06:22,000 - root - INFO - 密码输入成功
+2021-01-26 21:09:10,781 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 21:09:10,877 - root - INFO - 账户输入成功
+2021-01-26 21:09:11,059 - root - INFO - 密码输入成功
+2021-01-26 21:09:11,063 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 21:09:11,478 - root - INFO - 截图保存成功D:\PO\report\img\erro202101262108.png
+2021-01-26 21:14:03,065 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 21:14:03,156 - root - INFO - 账户输入成功
+2021-01-26 21:14:03,338 - root - INFO - 密码输入成功
+2021-01-26 21:14:03,342 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 21:14:03,739 - root - INFO - 截图保存成功D:\PO\report\img\erro202101262113.png
+2021-01-26 21:44:27,369 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 21:44:27,457 - root - INFO - 账户输入成功
+2021-01-26 21:44:27,621 - root - INFO - 密码输入成功
+2021-01-26 21:44:27,633 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 21:44:28,063 - root - INFO - 截图保存成功D:\PO\report\img\erro202101262144.png
+2021-01-26 21:47:38,848 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 21:47:38,940 - root - INFO - 账户输入成功
+2021-01-26 21:47:39,099 - root - INFO - 密码输入成功
+2021-01-26 21:54:14,507 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 21:54:14,608 - root - INFO - 账户输入成功
+2021-01-26 21:54:14,794 - root - INFO - 密码输入成功
+2021-01-26 21:54:14,798 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 21:54:15,231 - root - INFO - 截图保存成功D:\PO\report\img\erro202101262153.png
+2021-01-26 21:56:41,113 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 21:56:41,219 - root - INFO - 账户输入成功
+2021-01-26 21:56:41,403 - root - INFO - 密码输入成功
+2021-01-26 22:20:48,522 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 22:20:48,612 - root - INFO - 账户输入成功
+2021-01-26 22:20:48,781 - root - INFO - 密码输入成功
+2021-01-26 22:21:31,533 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 22:21:31,626 - root - INFO - 账户输入成功
+2021-01-26 22:21:31,785 - root - INFO - 密码输入成功
+2021-01-26 22:21:31,885 - root - INFO - 登录点击成功
+2021-01-26 22:21:31,909 - root - INFO - 打开http://121.196.12.97:9110/admin/index.html#/dashboard成功
+2021-01-26 22:21:31,916 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 22:21:32,247 - root - INFO - 截图保存成功D:\PO\report\img\erro202101262221.png
+2021-01-26 22:21:32,247 - root - INFO - 点击文章tab
+2021-01-26 22:21:32,252 - root - ERROR - 元素点击异常:Message: invalid argument: 'using' must be a string
+  (Session info: chrome=79.0.3945.130)
+
+2021-01-26 22:21:32,565 - root - INFO - 截图保存成功D:\PO\report\img\erro202101262221.png
+2021-01-26 22:21:32,565 - root - INFO - 点击写文章
+2021-01-26 22:23:23,807 - root - INFO - 打开http://121.196.12.97:9110/admin成功
+2021-01-26 22:23:23,898 - root - INFO - 账户输入成功
+2021-01-26 22:23:24,071 - root - INFO - 密码输入成功
+2021-01-26 22:23:24,177 - root - INFO - 登录点击成功
+2021-01-26 22:23:24,209 - root - INFO - 打开http://121.196.12.97:9110/admin/index.html#/dashboard成功
+2021-01-26 22:23:25,052 - root - INFO - 点击文章tab
+2021-01-26 22:23:30,057 - root - ERROR - 元素定位异常
+2021-01-26 22:23:30,421 - root - INFO - 截图保存成功D:\PO\report\img\erro202101262223.png
+2021-01-26 22:23:30,422 - root - ERROR - 元素点击异常:'NoneType' object has no attribute 'click'
+2021-01-26 22:23:30,887 - root - INFO - 截图保存成功D:\PO\report\img\erro202101262223.png
+2021-01-26 22:23:30,887 - root - INFO - 点击写文章
